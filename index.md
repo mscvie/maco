@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "HACKEDe"
-  text: "Training Page for Cloud Computing Course"
+  text: "Training Page for Cloud Computing Course TEST"
   tagline: My great project tagline
   actions:
     - theme: brand
