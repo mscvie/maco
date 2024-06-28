@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages #test
 
 on:
   push: 
-    branches: [ release ] # is triggered if push event in release branch occurs
+    branches: [ main ] # is triggered if push event in release branch occurs
 jobs:
   build:
     runs-on: ubuntu-latest # run ubuntu
